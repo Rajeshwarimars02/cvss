@@ -1,0 +1,54 @@
+<html>
+
+<head>
+
+<meta charset="utf-8">
+<title>Rajeshwari's Profile </title>
+</head>
+
+<body>
+<table cellspacing="20">
+	<tr>
+		<td>
+			<img src="C:\Users\Rajeshwari\Pictures\Rajeshwari\R\2018-11-06-20-06-39-673.JPG" alt ="Rajeshwari profile photo"height="100"width="100">
+		</td>
+
+		<td>
+			<h1 align="left">RAJESHWARI MALLAPPA SAVALAGI </h1>
+			<p> <em> i am pursuing of Engineering in computer science degree</em>at SIT</p>
+		</td>
+	</tr>
+</table>
+
+<hr>
+
+<h1 style="text-align:center;font-weight:bold;color:red">Styling with CSS!</h1>
+
+<p style="font-size:10pt;colorred;font-weight:bold;font-family:Arial,Helvetica,sans-serif">
+	bagalkot district of jamkhandi taluq of hunnur vill
+age</p>
+
+<hr>
+<h1 style="text-align:centre;font-weight:italic;color:blue">Achivements</h1>
+<p>Best sports player in primary school.
+<p>First place secured a Poster making Competition.
+<p>dnyachetan taluq level.
+
+<hr>
+
+<p><font size="5">Educational Qualification</font></p>
+<p>I have secured a grade of 9.04 till 4th semester.
+<p>I have completed my PU in Tungal Science Composite PU College  with aggregate of 90.00%
+
+<hr>
+<h5>Email me<a href="mailto:rajeshwarimars@gmail.com">Email Link</a></h5>\
+<h5>Facebook<a href="www.facebook.com/marsrajeshwari/">Facebook profile</a></h5>
+
+<form action ="index.html" method ="get">
+First Name :<input type="text"name="fname"><br>
+Last Name :<input type="text"name="lname"><br>
+<input type ="submit"value="Submit">
+
+</body>
+</html>
+
